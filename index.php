@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
+	<link rel="stylesheet" href="css/style.css">
 	<title>Test php footer</title>
 </head>
 <body>
